@@ -2,6 +2,7 @@
 라즈베리파이 활용
 # TensorFlow 설치
 sudo apt-get install libatlas-base-dev
+
 pip3 install tensorflow
 # Docker
 1. 도커 설치
