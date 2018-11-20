@@ -4,6 +4,8 @@
 sudo apt-get install libatlas-base-dev
 
 pip3 install tensorflow
+
+https://github.com/tensorflow/tensorflow
 # Docker
 1. 도커 설치
 
