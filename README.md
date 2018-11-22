@@ -10,15 +10,19 @@ https://github.com/tensorflow/tensorflow
 1. 도커 설치 scrpit 다운
 
 curl -fsSL get.docker.com -o get-docker.sh
+
 2. 도커 설치
 
 sudo bash get-docker.sh
+
 3. 도커 서비스 동작 확인
 
 ps auwx|grep docker
+
 4. 도커 프로세스 확인
 
 sudo docker ps
+
 5. 사용자 계정으로 도커 사용 
 
 sudo usermod -aG docker pi
