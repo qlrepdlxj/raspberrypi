@@ -37,3 +37,5 @@ curl http://host.wednus.com/onlyflat|sh
 sudo apt install docker-compose
 
 sudo docker-compose up -d
+
+# hypriot / arm32v7
