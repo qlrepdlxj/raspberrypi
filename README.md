@@ -38,4 +38,4 @@ sudo apt install docker-compose
 
 sudo docker-compose up -d
 
-# hypriot / arm32v7
+# hypriot / arm32v7 /portainer
